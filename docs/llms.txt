@@ -1,10 +1,10 @@
 # Youtube-Obhod
 
-Youtube-Obhod снимает искусственное замедление YouTube: ролики и Shorts снова открываются в нормальном качестве, без минутной буферизации.
+Обновлённая версия с поддержкой работы YouTube. Быстрее, стабильнее, надежнее
 
 Youtube-Obhod снимает искусственное замедление YouTube: ролики и Shorts снова открываются в нормальном качестве, без минутной буферизации. обход замедления YouTube, YouTube тормозит что делать, YouTube не грузит видео, ускорить YouTube без VPN. Windows 10 и 11, без VPN.
 
-Релиз: https://github.com/Grayzurbastion/Youtube-Obhod/releases/latest
-Код: https://github.com/Grayzurbastion/Youtube-Obhod
+Релиз: https://github.com/grayzurbastion/Youtube-Obhod/releases/latest
+Код: https://github.com/grayzurbastion/Youtube-Obhod
 Основа: https://github.com/bol-van/zapret
-Страница: https://github.com/Grayzurbastion/Youtube-Obhod
+Страница: https://github.com/grayzurbastion/Youtube-Obhod
